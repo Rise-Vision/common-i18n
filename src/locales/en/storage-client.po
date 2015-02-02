@@ -132,6 +132,3 @@ msgstr "The upload request was refused because account {{email}} does not have a
 
 msgid "uploading"
 msgstr "Uploading {{filename}}"
-
-msgid "verifying"
-msgstr "Verifying {{filename}}"
