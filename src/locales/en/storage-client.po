@@ -1,47 +1,32 @@
 msgid "access-denied"
 msgstr "You don't have access to that action. Please contact your Administrator to give you the access you need."
 
-msgid "bandwidth-query-failed"
-msgstr "Bucket bandwidth query failed"
-
 msgid "confirm-delete"
 msgstr "Delete"
 
 msgid "confirm-deletion"
 msgstr "Please confirm PERMANENT deletion of"
 
-msgid "cost-disclaimer"
-msgstr "There is currently no charge for the use of Storage, however at an as of yet to be determined date in the future, there will be a cost and at that time you will have 90 days to decide if you wish to continue using Storage or not."
-
-msgid "create-initial-folder"
-msgstr "Create initial storage folder"
-
-msgid "create-initial-folder-failed"
-msgstr "Could not create initial folder for {{email}}"
-
 msgid "delete-file"
 msgstr "file: {{file}}"
 
 msgid "delete-files-folders-plural"
-msgstr "{{count}} files and folders are about to be permanently deleted and they cannot be recovered."
+msgstr "{{count}} files and folders are about to be permanently deleted."
 
 msgid "delete-files-plural"
-msgstr "{{count}} files are about to be permanently deleted and they cannot be recovered."
+msgstr "{{count}} files are about to be permanently deleted."
 
 msgid "delete-files-singular"
-msgstr "One file is about to be permanently deleted and it cannot be recovered."
+msgstr "One file is about to be permanently deleted."
 
 msgid "delete-folder"
 msgstr "folder: {{folder}} and all its contents"
 
 msgid "delete-folders-plural"
-msgstr "{{count}} folders are about to be permanently deleted and they cannot be recovered."
+msgstr "{{count}} folders are about to be permanently deleted."
 
 msgid "delete-folders-singular"
-msgstr "One folder is about to be permanently deleted and it cannot be recovered."
-
-msgid "delete-inactive-subscription"
-msgstr "Could not delete. Subscription not active for {{email}}"
+msgstr "One folder is about to be permanently deleted."
 
 msgid "download-status"
 msgstr "Download Status"
@@ -58,32 +43,20 @@ msgstr "Restore Failed"
 msgid "failed-trash"
 msgstr "Move To Trash Failed"
 
-msgid "folder-bucket-creation"
-msgstr "Error creating initial storage for {{email}}"
-
 msgid "folder-inactive-subscription"
-msgstr "Could not create folder. Subscription not active for {{email}}."
+msgstr "The folder could not be created because a valid subscription is required.  Please purchase a subscription and try again."
 
 msgid "folder-verify-company"
-msgstr "Could not create folder. Unable to authenticate using the email account {{email}}."
+msgstr "The folder was not created.  It appears as though account {{email}} does not have access to this company."
 
 msgid "header"
 msgstr "Storage"
-
-msgid "inactive-subscription"
-msgstr "Subscription not active for {{email}}."
-
-msgid "lessThan1MB"
-msgstr "less than one MB"
 
 msgid "loading-files"
 msgstr "Requesting file list for {{username}}"
 
 msgid "loading-functions"
 msgstr "Loading storage functions"
-
-msgid "month-bandwidth"
-msgstr "This month's bandwidth use"
 
 msgid "moved-to-trash"
 msgstr "Moved To Trash"
@@ -92,13 +65,13 @@ msgid "new-folder"
 msgstr "New Folder"
 
 msgid "not-authorized"
-msgstr "You are not authorized to view this Company's files"
+msgstr "You are not authorized to view this Company's files.  Please try logging in again."
 
 msgid "pending-delete"
 msgstr "Deleting"
 
 msgid "pending-ops-leave-page"
-msgstr "Warning: There are operations pending."
+msgstr "Warning: There are operations pending.  If you close this window some tasks will remain incomplete."
 
 msgid "pending-restore"
 msgstr "Restoring"
@@ -119,7 +92,7 @@ msgid "requesting-permission"
 msgstr "Requesting permission"
 
 msgid "restore-inactive-subscription"
-msgstr "Could not restore from trash. Subscription not active for {{email}}"
+msgstr "The restore request was refused because a valid subscription is required.  Please purchase a subscription and try again."
 
 msgid "restored-from-trash"
 msgstr "Restored From Trash"
@@ -127,17 +100,11 @@ msgstr "Restored From Trash"
 msgid "selected-items"
 msgstr "{{count}} Selected"
 
-msgid "server-error"
-msgstr "There was a problem with the request. Report to support with this error code: "
-
 msgid "signed-download-uri-request-failed"
-msgstr "Download request failed for {{email}}"
-
-msgid "signed-url-inactive-subscription"
-msgstr "Could not Download. Subscription not active for {{email}}."
+msgstr "There was an unexpected server error during the download request.  Please try again."
 
 msgid "signed-url-verify-company"
-msgstr "Could not Download. We're unable to authenticate you using the email account {{email}}."
+msgstr "The download request was refused because email account {{email}} does not have access to this company.  Please log in and retry."
 
 msgid "title"
 msgstr "Rise Vision Storage"
@@ -149,41 +116,28 @@ msgid "trash"
 msgstr "Trash"
 
 msgid "trash-inactive-subscription"
-msgstr "Could not move to trash. Subscription not active for {{email}}"
-
-msgid "unexpected-null-parameter"
-msgstr "Unexpected null parameter"
-
-msgid "upload-bucket-creation"
-msgstr "Error creating initial storage for {{email}}"
+msgstr "The trash operation was refused because a valid subscription is required.  Please purchase a subscription and try again."
 
 msgid "upload-failed"
-msgstr "Upload did not complete"
+msgstr "There was an unexpected error during upload.  Please try again."
 
 msgid "upload-file"
 msgstr "Upload File"
 
 msgid "upload-inactive-subscription"
-msgstr "Could not Upload. Subscription not active for {{email}}."
+msgstr "The upload request was rejected because a valid subscription is required.  Please purchase a subscription and try again."
 
 msgid "upload-status"
 msgstr "Upload Status"
 
 msgid "upload-uri-request-failed"
-msgstr "Upload URI request failed"
-
-msgid "upload-uri-request-failed-mail"
-msgstr "Upload URI request failed for {{email}}"
+msgstr "There was an unexpected problem processing the upload.  Please try again."
 
 msgid "upload-verify-company"
-msgstr "Could not upload.  Unable to authenticate using the email account {{email}}."
+msgstr "The upload request was refused because account {{email}} does not have access to this company.  Please log in and try again."
 
 msgid "uploading"
 msgstr "Uploading {{filename}}"
 
-msgid "verify-failed"
-msgstr "Could not verify"
-
 msgid "verifying"
 msgstr "Verifying {{filename}}"
-
