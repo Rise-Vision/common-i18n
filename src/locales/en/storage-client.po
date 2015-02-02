@@ -41,7 +41,7 @@ msgid "failed-restore"
 msgstr "Restore Failed"
 
 msgid "failed-trash"
-msgstr "Move To Trash Failed"
+msgstr "There was an unexpected error during the trash operation.  Please try again."
 
 msgid "folder-inactive-subscription"
 msgstr "The folder could not be created because a valid subscription is required.  Please purchase a subscription and try again."
