@@ -41,13 +41,13 @@ msgid "failed-restore"
 msgstr "Restore Failed"
 
 msgid "failed-trash"
-msgstr "There was an unexpected error during the trash operation.  Please try again."
+msgstr "Move to trash failed.  Please try again."
 
 msgid "folder-inactive-subscription"
-msgstr "The folder could not be created because a valid subscription is required.  Please purchase a subscription and try again."
+msgstr "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again."
 
 msgid "folder-verify-company"
-msgstr "The folder was not created.  It appears as though account {{email}} does not have access to this company."
+msgstr "You cannot create a folder because your account {{email}} doesn't have access to this company.  Please login with a different account and try again."
 
 msgid "header"
 msgstr "Storage"
@@ -65,13 +65,13 @@ msgid "new-folder"
 msgstr "New Folder"
 
 msgid "not-authorized"
-msgstr "You are not authorized to view this Company's files.  Please try logging in again."
+msgstr "Your account {{email}} doesn't have access to this company.  Please login with a different account and try again."
 
 msgid "pending-delete"
 msgstr "Deleting"
 
 msgid "pending-ops-leave-page"
-msgstr "Warning: There are operations pending.  If you close this window some tasks will remain incomplete."
+msgstr "There are tasks in progress.  If you close this window they won't be completed."
 
 msgid "pending-restore"
 msgstr "Restoring"
@@ -88,11 +88,8 @@ msgstr "Initiate Permission Request"
 msgid "requesting-file-list"
 msgstr "Requesting file list..."
 
-msgid "requesting-permission"
-msgstr "Requesting permission"
-
 msgid "restore-inactive-subscription"
-msgstr "The restore request was refused because a valid subscription is required.  Please purchase a subscription and try again."
+msgstr "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again."
 
 msgid "restored-from-trash"
 msgstr "Restored From Trash"
@@ -101,10 +98,10 @@ msgid "selected-items"
 msgstr "{{count}} Selected"
 
 msgid "signed-download-uri-request-failed"
-msgstr "There was an unexpected server error during the download request.  Please try again."
+msgstr "Download failed.  Please try again."
 
 msgid "signed-url-verify-company"
-msgstr "The download request was refused because email account {{email}} does not have access to this company.  Please log in and retry."
+msgstr "The download failed because your account {{email}} does not have access to this company.  Please log in with a different account and try again."
 
 msgid "title"
 msgstr "Rise Vision Storage"
@@ -115,23 +112,20 @@ msgstr "Total file size"
 msgid "trash"
 msgstr "Trash"
 
-msgid "trash-inactive-subscription"
-msgstr "The trash operation was refused because a valid subscription is required.  Please purchase a subscription and try again."
-
 msgid "upload-failed"
-msgstr "There was an unexpected error during upload.  Please try again."
+msgstr "Upload failed.  Please try again."
 
 msgid "upload-file"
 msgstr "Upload File"
 
 msgid "upload-inactive-subscription"
-msgstr "The upload request was rejected because a valid subscription is required.  Please purchase a subscription and try again."
+msgstr "You cannot upload files because you don't have an active subscription.  Please purchase a subscription and try again."
 
 msgid "upload-status"
 msgstr "Upload Status"
 
 msgid "upload-uri-request-failed"
-msgstr "There was an unexpected problem processing the upload.  Please try again."
+msgstr "Upload failed.  Please try again."
 
 msgid "upload-verify-company"
 msgstr "The upload request was refused because account {{email}} does not have access to this company.  Please log in and try again."
