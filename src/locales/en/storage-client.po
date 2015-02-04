@@ -79,8 +79,23 @@ msgstr "Download failed.  Please try again."
 msgid "signed-url-verify-company"
 msgstr "The download failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
 
+msgid "start-date-before-end-date"
+msgstr "Start Date must be before End Date."
+
+msgid "start-time-before-end-time"
+msgstr "Start Time must be before End Time."
+
+msgid "tag-definition-exists"
+msgstr "Tag definition name already exists."
+
 msgid "tagging"
 msgstr "Tagging"
+
+msgid "tag-values-always-unique"
+msgstr "Values for a Lookup Tag must all be unique."
+
+msgid "tag-definition-confirm-delete"
+msgstr "This Tag is about to be permanently deleted and it cannot be recovered"
 
 msgid "title"
 msgstr "Rise Vision Storage"
