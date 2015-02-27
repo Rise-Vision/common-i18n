@@ -22,6 +22,7 @@
   "pending-ops-leave-page": "There are tasks in progress.  If you close this window they won't be completed.",
   "pending-restore": "Restoring...",
   "pending-trash": "Moving to trash...",
+  "requesting-tags": "Requesting tags",
   "restore-inactive-subscription": "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again.",
   "selected-items": "{{count}} Selected",
   "signed-download-uri-request-failed": "Download failed.  Please try again.",
