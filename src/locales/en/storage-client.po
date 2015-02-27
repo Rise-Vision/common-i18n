@@ -109,3 +109,5 @@ msgstr "The upload failed because your account {{username}} does not have access
 msgid "uploading"
 msgstr "Uploading {{filename}}"
 
+msgid "requesting-tags"
+msgstr "Requesting tags"
