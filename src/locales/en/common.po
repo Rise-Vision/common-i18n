@@ -10,6 +10,9 @@ msgstr "Apr"
 msgid "aug"
 msgstr "Aug"
 
+msgid "back"
+msgstr "Back"
+
 msgid "cancel"
 msgstr "Cancel"
 
@@ -112,8 +115,14 @@ msgstr "Okay"
 msgid "previous-folder"
 msgstr "Previous Folder"
 
+msgid "publish"
+msgstr "Publish"
+
 msgid "required-credentials"
 msgstr "Rise Vision needs access to your Google account to verify who you are"
+
+msgid "restore"
+msgstr "Restore"
 
 msgid "saturday"
 msgstr "Saturday"
