@@ -1,0 +1,142 @@
+msgid "add"
+msgstr "Lägg till"
+
+msgid "apply"
+msgstr "Apply"
+
+msgid "apr"
+msgstr "Apr"
+
+msgid "aug"
+msgstr "Aug"
+
+msgid "back"
+msgstr "Tillbaka"
+
+msgid "cancel"
+msgstr "Avbryt"
+
+msgid "close"
+msgstr "Stäng"
+
+
+msgid "create"
+msgstr "Create"
+
+msgid "dec"
+msgstr "Dec"
+
+msgid "delete"
+msgstr "Ta bort"
+
+msgid "discard"
+msgstr "Discard"
+
+msgid "edit"
+msgstr "Redigera"
+
+msgid "feb"
+msgstr "Feb"
+
+msgid "file-date-mod"
+msgstr "Ändrad"
+
+msgid "file-name"
+msgstr "Namn"
+
+msgid "file-size"
+msgstr "Storlek"
+
+msgid "file-type"
+msgstr "Typ"
+
+msgid "folder"
+msgstr "Katalog"
+
+msgid "font-variants.bold"
+msgstr "Fet"
+
+msgid "font-variants.italic"
+msgstr "Kursiv"
+
+msgid "font-variants.label"
+msgstr "Typsnitt"
+
+msgid "friday"
+msgstr "Fredag"
+
+msgid "help"
+msgstr "Hjälp"
+
+msgid "jan"
+msgstr "Jan"
+
+msgid "jul"
+msgstr "Jul"
+
+msgid "jun"
+msgstr "Jun"
+
+msgid "last-modified.by"
+msgstr "av"
+
+msgid "last-modified.saved"
+msgstr "Sparad"
+
+msgid "logging-in"
+msgstr "Loggar in..."
+
+msgid "mar"
+msgstr "Mar"
+
+msgid "may"
+msgstr "Maj"
+
+msgid "monday"
+msgstr "Måndag"
+
+msgid "nov"
+msgstr "Nov"
+
+msgid "oct"
+msgstr "Okt"
+
+msgid "ok"
+msgstr "Ok"
+
+msgid "publish"
+msgstr "Publisera"
+
+msgid "saturday"
+msgstr "Lördag"
+
+msgid "sep"
+msgstr "Sep"
+
+msgid "sunday"
+msgstr "Söndag"
+
+msgid "thursday"
+msgstr "Torsdag"
+
+msgid "tuesday"
+msgstr "Tisdag"
+
+msgid "units.celsius"
+msgstr "Celsius"
+
+msgid "units.fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "units.minutes"
+msgstr "min"
+
+msgid "units.pixels"
+msgstr "px"
+
+msgid "units.seconds"
+msgstr "sek"
+
+msgid "wednesday"
+msgstr "Onsdag"
+

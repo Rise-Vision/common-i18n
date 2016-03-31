@@ -1,0 +1,24 @@
+{
+  "choice": "Använd bild",
+  "color": {
+    "label": "Färg"
+  },
+  "heading": "Bakgrund",
+  "image": {
+    "position": {
+      "label": "Bildposition"
+    },
+    "repeat": {
+      "both": "Båda",
+      "horizontal": "Horisontell",
+      "label": "Upprepa bild",
+      "noRepeat": "Ingen",
+      "vertical": "Vertikal"
+    },
+    "scale": "Skala",
+    "selector": {
+      "file": "Rise storage",
+      "title": "Välj en bild från Rise storage eller skriv in en giltig URL"
+    }
+  }
+}
