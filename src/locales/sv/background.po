@@ -1,0 +1,36 @@
+msgid "choice"
+msgstr "Använd bild"
+
+msgid "color.label"
+msgstr "Färg"
+
+msgid "heading"
+msgstr "Bakgrund"
+
+msgid "image.position.label"
+msgstr "Bildposition"
+
+msgid "image.repeat.both"
+msgstr "Båda"
+
+msgid "image.repeat.horizontal"
+msgstr "Horisontell"
+
+msgid "image.repeat.label"
+msgstr "Upprepa bild"
+
+msgid "image.repeat.noRepeat"
+msgstr "Ingen"
+
+msgid "image.repeat.vertical"
+msgstr "Vertikal"
+
+msgid "image.scale"
+msgstr "Skala"
+
+msgid "image.selector.file"
+msgstr "Rise storage"
+
+msgid "image.selector.title"
+msgstr "Välj en bild från Rise storage eller skriv in en giltig URL"
+
