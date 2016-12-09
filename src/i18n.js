@@ -17,8 +17,8 @@ angular.module("pascalprecht.translate").factory("$translateStaticFilesLoader", 
         ].join(""),
         method: "GET",
         params: ""
-      }, options.$http)).then(function (data) {
-        deferred.resolve(data);
+      }, options.$http)).then(function (response) {
+        deferred.resolve(response.data);
       }, function () {
         if(options.key.indexOf("_") >= 0) {
           var key = options.key.substr(0, options.key.lastIndexOf("_"));
