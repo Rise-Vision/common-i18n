@@ -118,6 +118,12 @@ msgstr "Presentations"
 msgid "list.viewAll"
 msgstr "View All Presentations"
 
+msgid "json-error.message"
+msgstr "The Presentation Data Object is not valid. Please check the syntax is correct before proceeding."
+
+msgid "json-error.title"
+msgstr "Invalid presentation data"
+
 msgid "playlistItem.add"
 msgstr "Add Widget"
 
