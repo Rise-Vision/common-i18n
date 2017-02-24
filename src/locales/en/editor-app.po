@@ -119,7 +119,7 @@ msgid "list.viewAll"
 msgstr "View All Presentations"
 
 msgid "json-error.message"
-msgstr "The Presentation Data Object is not valid. Please check the syntax is correct before proceeding."
+msgstr "The content of your Presentation could not be parsed. Please check the syntax in HTML mode."
 
 msgid "json-error.title"
 msgstr "Invalid presentation data"

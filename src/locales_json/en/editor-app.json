@@ -35,7 +35,7 @@
     "view": "View In Store"
   },
   "json-error": {
-    "message": "The Presentation Data Object is not valid. Please check the syntax is correct before proceeding.",
+    "message": "The content of your Presentation could not be parsed. Please check the syntax in HTML mode.",
     "title": "Invalid presentation data"
   },
   "landing": {
