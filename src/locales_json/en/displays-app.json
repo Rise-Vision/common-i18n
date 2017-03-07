@@ -235,7 +235,7 @@
     "manageDisplaysText": "Manage and monitor your digital signage displays, anywhere, anytime."
   },
   "list": {
-    "empty": "You haven't created any Displays yet",
+    "empty": "You haven't created any Displays yet.",
     "filter": {
       "filters": "Filters",
       "placeholder": "Search for Displays"

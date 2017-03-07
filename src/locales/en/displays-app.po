@@ -500,7 +500,7 @@ msgid "landing.manageDisplaysText"
 msgstr "Manage and monitor your digital signage displays, anywhere, anytime."
 
 msgid "list.empty"
-msgstr "You haven't created any Displays yet"
+msgstr "You haven't created any Displays yet."
 
 msgid "list.filter.filters"
 msgstr "Filters"
