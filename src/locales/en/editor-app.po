@@ -73,6 +73,12 @@ msgstr "Premium Template"
 msgid "goToStore.view"
 msgstr "View In Store"
 
+msgid "json-error.message"
+msgstr "The content of your Presentation could not be parsed. Please check the syntax in HTML mode."
+
+msgid "json-error.title"
+msgstr "Invalid presentation data"
+
 msgid "landing.manageEditorText"
 msgstr "Create and manage HTML content for your digital signage displays, anywhere, anytime."
 
@@ -117,12 +123,6 @@ msgstr "Presentations"
 
 msgid "list.viewAll"
 msgstr "View All Presentations"
-
-msgid "json-error.message"
-msgstr "The content of your Presentation could not be parsed. Please check the syntax in HTML mode."
-
-msgid "json-error.title"
-msgstr "Invalid presentation data"
 
 msgid "playlistItem.add"
 msgstr "Add Widget"

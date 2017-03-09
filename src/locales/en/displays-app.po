@@ -247,14 +247,14 @@ msgstr "Unsaved Changes"
 msgid "details.unsavedWarning"
 msgstr "You have unsaved changes. Do you want to Save or Discard them?"
 
-msgid "download.player"
-msgstr "Download Player"
-
 msgid "download.linux32"
 msgstr "Download Player for Ubuntu 14.04 LTS [32-bit]"
 
 msgid "download.linux64"
 msgstr "Download Player for Ubuntu 14.04 LTS [64-bit]"
+
+msgid "download.player"
+msgstr "Download Player"
 
 msgid "download.win32"
 msgstr "Download Player for Windows 10 [32-bit]"
@@ -421,6 +421,15 @@ msgstr "A Player has not been configured for your Display. To configure your Dis
 msgid "fields.player.resolution"
 msgstr "Resolution"
 
+msgid "fields.player.schedule.addToSchedule"
+msgstr "Add To Schedule"
+
+msgid "fields.player.schedule.label"
+msgstr "Schedule"
+
+msgid "fields.player.schedule.notScheduled"
+msgstr "This Display is not scheduled."
+
 msgid "fields.player.status"
 msgstr "Status"
 
@@ -430,14 +439,53 @@ msgstr "Viewer Version"
 msgid "fields.reboot"
 msgstr "Reboot:"
 
-msgid "fields.player.schedule.label"
-msgstr "Schedule"
+msgid "fields.screenshot.error1"
+msgstr "There was a problem requesting the screenshot."
 
-msgid "fields.player.schedule.addToSchedule"
-msgstr "Add To Schedule"
+msgid "fields.screenshot.error2"
+msgstr "Please check connectivity."
 
-msgid "fields.player.schedule.notScheduled"
+msgid "fields.screenshot.learnSupportedOS1"
+msgstr "Learn more about supported"
+
+msgid "fields.screenshot.learnSupportedOS2"
+msgstr "operating systems."
+
+msgid "fields.screenshot.missing1"
+msgstr "No Screenshot to show."
+
+msgid "fields.screenshot.missing2"
+msgstr "Click 'Update' above."
+
+msgid "fields.screenshot.notAvailable"
+msgstr "Screenshot not available."
+
+msgid "fields.screenshot.notScheduled"
 msgstr "This Display is not scheduled."
+
+msgid "fields.screenshot.osNotSupported"
+msgstr "Media Player operating system not supported."
+
+msgid "fields.screenshot.playerInstall"
+msgstr "Install Rise Player"
+
+msgid "fields.screenshot.playerNotInstalled"
+msgstr "Rise Player not installed."
+
+msgid "fields.screenshot.playerOffline"
+msgstr "This Display is Offline."
+
+msgid "fields.screenshot.title"
+msgstr "Display Screenshot"
+
+msgid "fields.screenshot.updateScreenshot"
+msgstr "Update"
+
+msgid "fields.screenshot.upgradePlayer"
+msgstr "Upgrade Rise Player"
+
+msgid "fields.screenshot.upgradeRequired"
+msgstr "Rise Player software must be upgraded."
 
 msgid "fields.status.active"
 msgstr "Active"
@@ -447,54 +495,6 @@ msgstr "Inactive"
 
 msgid "fields.status.name"
 msgstr "Status"
-
-msgid "fields.screenshot.title"
-msgstr "Display Screenshot"
-
-msgid "fields.screenshot.updateScreenshot"
-msgstr "Update"
-
-msgid "fields.screenshot.notAvailable"
-msgstr "Screenshot not available."
-
-msgid "fields.screenshot.notScheduled"
-msgstr "This Display is not scheduled."
-
-msgid "fields.screenshot.upgradeRequired"
-msgstr "Rise Player software must be upgraded."
-
-msgid "fields.screenshot.upgradePlayer"
-msgstr "Upgrade Rise Player"
-
-msgid "fields.screenshot.osNotSupported"
-msgstr "Media Player operating system not supported."
-
-msgid "fields.screenshot.learnSupportedOS1"
-msgstr "Learn more about supported"
-
-msgid "fields.screenshot.learnSupportedOS2"
-msgstr "operating systems."
-
-msgid "fields.screenshot.playerOffline"
-msgstr "This Display is Offline."
-
-msgid "fields.screenshot.playerNotInstalled"
-msgstr "Rise Player not installed."
-
-msgid "fields.screenshot.playerInstall"
-msgstr "Install Rise Player"
-
-msgid "fields.screenshot.missing1"
-msgstr "No Screenshot to show."
-
-msgid "fields.screenshot.missing2"
-msgstr "Click 'Update' above."
-
-msgid "fields.screenshot.error1"
-msgstr "There was a problem requesting the screenshot."
-
-msgid "fields.screenshot.error2"
-msgstr "Please check connectivity."
 
 msgid "landing.manageDisplaysText"
 msgstr "Manage and monitor your digital signage displays, anywhere, anytime."
@@ -529,26 +529,27 @@ msgstr "Your search didn't return any results"
 msgid "list.noDisplays"
 msgstr "No Displays"
 
-msgid "list.searchNotification"
-msgstr "Search results may include Displays that belong to your sub-companies."
-
-msgid "list.viewAll"
-msgstr "View All Displays"
-
 msgid "list.schedule.add"
 msgstr "Add to Schedule"
 
-msgid "list.status.install"
-msgstr "Install Player"
-
-msgid "list.status.online"
-msgstr "Online"
-
-msgid "list.status.offline"
-msgstr "Offline"
+msgid "list.searchNotification"
+msgstr "Search results may include Displays that belong to your sub-companies."
 
 msgid "list.status.error"
 msgstr "Error"
 
+msgid "list.status.install"
+msgstr "Install Player"
+
+msgid "list.status.offline"
+msgstr "Offline"
+
+msgid "list.status.online"
+msgstr "Online"
+
+msgid "list.viewAll"
+msgstr "View All Displays"
+
 msgid "title"
 msgstr "Displays"
+
