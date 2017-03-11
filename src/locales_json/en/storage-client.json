@@ -33,6 +33,22 @@
   "pending-ops-leave-page": "There are tasks in progress.  If you close this window they won't be completed.",
   "pending-restore": "Restoring...",
   "pending-trash": "Moving to trash...",
+  "rename": {
+    "breakingLink1": "Modifying these files or folders will break all links with existing Presentations.",
+    "breakingLink2": "If you are using this asset in any Presentation, the link for each must be manually updated in Editor.",
+    "error": {
+      "both-files-or-folders": "Source and destination must be both files or folders.",
+      "both-root-or-trash": "Source and destination must be both in Root or in Trash.",
+      "must-be-different": "Name is in use, please choose another.",
+      "no-matches-found": "No matching files found.",
+      "parent-must-exist": "Destination parent directory must exist.",
+      "root-not-valid": "Source and destination cannot point to the root folder.",
+      "subfolders-not-valid": "Source and destination cannot be subfolders of each other.",
+      "unknown": "An error occured while renaming. Please try again."
+    },
+    "title": "Rename File or Folder",
+    "warning": "Warning!"
+  },
   "restore-inactive-subscription": "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again.",
   "restore-verify-company": "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again.",
   "retry-failed-uploads": "Retry failed uploads",

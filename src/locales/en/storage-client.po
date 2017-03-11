@@ -94,6 +94,42 @@ msgstr "Restoring..."
 msgid "pending-trash"
 msgstr "Moving to trash..."
 
+msgid "rename.breakingLink1"
+msgstr "Modifying these files or folders will break all links with existing Presentations."
+
+msgid "rename.breakingLink2"
+msgstr "If you are using this asset in any Presentation, the link for each must be manually updated in Editor."
+
+msgid "rename.error.both-files-or-folders"
+msgstr "Source and destination must be both files or folders."
+
+msgid "rename.error.both-root-or-trash"
+msgstr "Source and destination must be both in Root or in Trash."
+
+msgid "rename.error.must-be-different"
+msgstr "Name is in use, please choose another."
+
+msgid "rename.error.no-matches-found"
+msgstr "No matching files found."
+
+msgid "rename.error.parent-must-exist"
+msgstr "Destination parent directory must exist."
+
+msgid "rename.error.root-not-valid"
+msgstr "Source and destination cannot point to the root folder."
+
+msgid "rename.error.subfolders-not-valid"
+msgstr "Source and destination cannot be subfolders of each other."
+
+msgid "rename.error.unknown"
+msgstr "An error occured while renaming. Please try again."
+
+msgid "rename.title"
+msgstr "Rename File or Folder"
+
+msgid "rename.warning"
+msgstr "Warning!"
+
 msgid "restore-inactive-subscription"
 msgstr "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again."
 
