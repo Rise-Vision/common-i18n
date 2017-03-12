@@ -39,7 +39,8 @@
     "error": {
       "both-files-or-folders": "Source and destination must be both files or folders.",
       "both-root-or-trash": "Source and destination must be both in Root or in Trash.",
-      "must-be-different": "Name is in use, please choose another.",
+      "destination-must-not-exist": "Name is in use, please choose another.",
+      "must-be-different": "The new name must be different.",
       "no-matches-found": "No matching files found.",
       "parent-must-exist": "Destination parent directory must exist.",
       "root-not-valid": "Source and destination cannot point to the root folder.",

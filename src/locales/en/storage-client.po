@@ -106,8 +106,11 @@ msgstr "Source and destination must be both files or folders."
 msgid "rename.error.both-root-or-trash"
 msgstr "Source and destination must be both in Root or in Trash."
 
-msgid "rename.error.must-be-different"
+msgid "rename.error.destination-must-not-exist"
 msgstr "Name is in use, please choose another."
+
+msgid "rename.error.must-be-different"
+msgstr "The new name must be different."
 
 msgid "rename.error.no-matches-found"
 msgstr "No matching files found."
