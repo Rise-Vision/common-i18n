@@ -34,8 +34,9 @@
   "pending-restore": "Restoring...",
   "pending-trash": "Moving to trash...",
   "rename": {
-    "breakingLink1": "Modifying these files or folders will break all links with existing Presentations.",
-    "breakingLink2": "If you are using this asset in any Presentation, the link for each must be manually updated in Editor.",
+    "breaking-link-hide-warning": "Do not show this warning again.",
+    "breaking-link1": "Modifying these files or folders will break all links with existing Presentations.",
+    "breaking-link2": "If you are using this asset in any Presentation, the link for each must be manually updated in Editor.",
     "error": {
       "both-files-or-folders": "Source and destination must be both files or folders.",
       "both-root-or-trash": "Source and destination must be both in Root or in Trash.",

@@ -94,11 +94,14 @@ msgstr "Restoring..."
 msgid "pending-trash"
 msgstr "Moving to trash..."
 
-msgid "rename.breakingLink1"
+msgid "rename.breaking-link1"
 msgstr "Modifying these files or folders will break all links with existing Presentations."
 
-msgid "rename.breakingLink2"
+msgid "rename.breaking-link2"
 msgstr "If you are using this asset in any Presentation, the link for each must be manually updated in Editor."
+
+msgid "rename.breaking-link-hide-warning"
+msgstr "Do not show this warning again."
 
 msgid "rename.error.both-files-or-folders"
 msgstr "Source and destination must be both files or folders."
