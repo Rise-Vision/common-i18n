@@ -41,6 +41,7 @@
       "both-files-or-folders": "Source and destination must be both files or folders.",
       "both-root-or-trash": "Source and destination must be both in Root or in Trash.",
       "destination-must-not-exist": "Name is in use, please choose another.",
+      "invalid-name": "The new name cannot have slashes.",
       "must-be-different": "The new name must be different.",
       "no-matches-found": "No matching files found.",
       "parent-must-exist": "Destination parent directory must exist.",

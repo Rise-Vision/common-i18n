@@ -112,6 +112,9 @@ msgstr "Source and destination must be both in Root or in Trash."
 msgid "rename.error.destination-must-not-exist"
 msgstr "Name is in use, please choose another."
 
+msgid "rename.error.invalid-name"
+msgstr "The new name cannot have slashes."
+
 msgid "rename.error.must-be-different"
 msgstr "The new name must be different."
 
