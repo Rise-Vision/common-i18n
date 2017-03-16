@@ -130,9 +130,6 @@ msgstr "or"
 msgid "previous-folder"
 msgstr "Previous Folder"
 
-msgid "proceed"
-msgstr "Proceed"
-
 msgid "publish"
 msgstr "Publish"
 
