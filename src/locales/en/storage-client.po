@@ -67,6 +67,12 @@ msgstr "You cannot create a folder because your account {{username}} doesn't hav
 msgid "header"
 msgstr "Storage"
 
+msgid "list.toggle-grid-view"
+msgstr "Grid View"
+
+msgid "list.toggle-list-view"
+msgstr "List View"
+
 msgid "loading-files"
 msgstr "Loading..."
 
@@ -94,14 +100,14 @@ msgstr "Restoring..."
 msgid "pending-trash"
 msgstr "Moving to trash..."
 
+msgid "rename.breaking-link-hide-warning"
+msgstr "Do not show this warning again."
+
 msgid "rename.breaking-link1"
 msgstr "Modifying these files or folders will break all links with existing Presentations."
 
 msgid "rename.breaking-link2"
 msgstr "If you are using this asset in any Presentation, the link for each must be manually updated in Editor."
-
-msgid "rename.breaking-link-hide-warning"
-msgstr "Do not show this warning again."
 
 msgid "rename.error.both-files-or-folders"
 msgstr "Source and destination must be both files or folders."

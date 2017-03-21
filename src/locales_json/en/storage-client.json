@@ -24,6 +24,10 @@
   "folder-inactive-subscription": "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again.",
   "folder-verify-company": "You cannot create a folder because your account {{username}} doesn't have access to this company.  Please login with a different account and try again.",
   "header": "Storage",
+  "list": {
+    "toggle-grid-view": "Grid View",
+    "toggle-list-view": "List View"
+  },
   "loading-files": "Loading...",
   "loading-functions": "Loading...",
   "new-folder": "Create Folder",
