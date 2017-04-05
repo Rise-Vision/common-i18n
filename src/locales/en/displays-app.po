@@ -247,6 +247,9 @@ msgstr "Unsaved Changes"
 msgid "details.unsavedWarning"
 msgstr "You have unsaved changes. Do you want to Save or Discard them?"
 
+msgid "displayDetails"
+msgstr "Display Details"
+
 msgid "download.linux32"
 msgstr "Download Player for Ubuntu 14.04 LTS [32-bit]"
 
@@ -392,10 +395,13 @@ msgid "fields.player.lastConnection"
 msgstr "Last Connection"
 
 msgid "fields.player.localIpAddress"
-msgstr "Local IP Address:"
+msgstr "Local IP Address"
+
+msgid "fields.player.macAddress"
+msgstr "MAC Address"
 
 msgid "fields.player.operatingSystem"
-msgstr "OS"
+msgstr "Operating System"
 
 msgid "fields.player.orientation.0"
 msgstr "Landscape"
@@ -429,6 +435,9 @@ msgstr "Schedule"
 
 msgid "fields.player.schedule.notScheduled"
 msgstr "This Display is not scheduled."
+
+msgid "fields.player.serialNumber"
+msgstr "Serial Number"
 
 msgid "fields.player.status"
 msgstr "Status"

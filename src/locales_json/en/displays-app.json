@@ -108,6 +108,7 @@
     "unsavedTitle": "Unsaved Changes",
     "unsavedWarning": "You have unsaved changes. Do you want to Save or Discard them?"
   },
+  "displayDetails": "Display Details",
   "download": {
     "linux32": "Download Player for Ubuntu 14.04 LTS [32-bit]",
     "linux64": "Download Player for Ubuntu 14.04 LTS [64-bit]",
@@ -186,8 +187,9 @@
       },
       "ipAddress": "IP Address",
       "lastConnection": "Last Connection",
-      "localIpAddress": "Local IP Address:",
-      "operatingSystem": "OS",
+      "localIpAddress": "Local IP Address",
+      "macAddress": "MAC Address",
+      "operatingSystem": "Operating System",
       "orientation": {
         "0": "Landscape",
         "90": "Portrait",
@@ -203,6 +205,7 @@
         "label": "Schedule",
         "notScheduled": "This Display is not scheduled."
       },
+      "serialNumber": "Serial Number",
       "status": "Status",
       "viewerVersion": "Viewer Version"
     },
