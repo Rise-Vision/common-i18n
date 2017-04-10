@@ -4,6 +4,7 @@
   },
   "add": {
     "download": {
+      "armv7l": "Download Raspbian 8.0 [ARMv7]",
       "linux32": "Download Ubuntu 14.04 LTS [32-bit]",
       "linux64": "Download Ubuntu 14.04 LTS [64-bit]",
       "win32": "Download Windows 10 [32-bit]",

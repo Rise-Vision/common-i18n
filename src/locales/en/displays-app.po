@@ -13,6 +13,9 @@ msgstr "Download Windows 10 [32-bit]"
 msgid "add.download.win64"
 msgstr "Download Windows 10 [64-bit]"
 
+msgid "add.download.armv7l"
+msgstr "Download Raspbian 8.0 [ARMv7]"
+
 msgid "add.error"
 msgstr "Failed to create display!"
 
@@ -561,4 +564,3 @@ msgstr "View All Displays"
 
 msgid "title"
 msgstr "Displays"
-
