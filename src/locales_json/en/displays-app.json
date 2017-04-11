@@ -111,6 +111,7 @@
   },
   "displayDetails": "Display Details",
   "download": {
+    "armv7l": "Download Player for Raspbian 8.0 [ARMv7]",
     "linux32": "Download Player for Ubuntu 14.04 LTS [32-bit]",
     "linux64": "Download Player for Ubuntu 14.04 LTS [64-bit]",
     "player": "Download Player",
