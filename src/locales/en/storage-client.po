@@ -50,13 +50,16 @@ msgid "empty-state.select-folder"
 msgstr "Select a Folder to show and update Images and Videos as you add or remove them from the Folder."
 
 msgid "failed-delete"
-msgstr "Delete failed.  Please try again."
+msgstr "Delete failed. Please try again."
+
+msgid "failed-duplicate"
+msgstr "Duplicate failed. Please try again."
 
 msgid "failed-restore"
-msgstr "Restore failed.  Please try again."
+msgstr "Restore failed. Please try again."
 
 msgid "failed-trash"
-msgstr "Move to trash failed.  Please try again."
+msgstr "Move to trash failed. Please try again."
 
 msgid "folder-inactive-subscription"
 msgstr "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again."
@@ -90,6 +93,9 @@ msgstr "Open in Storage App"
 
 msgid "pending-delete"
 msgstr "Deleting..."
+
+msgid "pending-duplicate"
+msgstr "Duplicating..."
 
 msgid "pending-ops-leave-page"
 msgstr "There are tasks in progress.  If you close this window they won't be completed."
