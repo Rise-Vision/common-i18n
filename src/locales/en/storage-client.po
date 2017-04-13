@@ -55,14 +55,20 @@ msgstr "Delete failed. Please try again."
 msgid "failed-duplicate"
 msgstr "Duplicate failed. Please try again."
 
+msgid "failed-move"
+msgstr "Move failed.  Please try again."
+
 msgid "failed-restore"
-msgstr "Restore failed. Please try again."
+msgstr "Restore failed.  Please try again."
 
 msgid "failed-trash"
-msgstr "Move to trash failed. Please try again."
+msgstr "Move to trash failed.  Please try again."
 
 msgid "folder-inactive-subscription"
 msgstr "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again."
+
+msgid "folder-selector.title"
+msgstr "Select Destination"
 
 msgid "folder-verify-company"
 msgstr "You cannot create a folder because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
@@ -82,6 +88,21 @@ msgstr "Loading..."
 msgid "loading-functions"
 msgstr "Loading..."
 
+msgid "move.breaking-link-hide-warning"
+msgstr "Do not show this warning again."
+
+msgid "move.breaking-link1"
+msgstr "Modifying these files or folders will break all links with existing Presentations."
+
+msgid "move.breaking-link2"
+msgstr "If you are using these asset in any Presentation, the link for each must be manually updated in the Editor."
+
+msgid "move.warning"
+msgstr "Warning!"
+
+msgid "must-be-different"
+msgstr "You cannot move these files or folders into the same folder. Please select a different folder and try again."
+
 msgid "new-folder"
 msgstr "Create Folder"
 
@@ -96,6 +117,9 @@ msgstr "Deleting..."
 
 msgid "pending-duplicate"
 msgstr "Duplicating..."
+
+msgid "pending-move"
+msgstr "Moving..."
 
 msgid "pending-ops-leave-page"
 msgstr "There are tasks in progress.  If you close this window they won't be completed."
@@ -113,7 +137,7 @@ msgid "rename.breaking-link1"
 msgstr "Modifying these files or folders will break all links with existing Presentations."
 
 msgid "rename.breaking-link2"
-msgstr "If you are using this asset in any Presentation, the link for each must be manually updated in Editor."
+msgstr "If you are using this asset in any Presentation, the link for each must be manually updated in the Editor."
 
 msgid "rename.error.both-files-or-folders"
 msgstr "Source and destination must be both files or folders."

@@ -1,6 +1,9 @@
 msgid "actions.new"
 msgstr "Add Display"
 
+msgid "add.download.armv7l"
+msgstr "[BETA] Download Raspbian 8.0 [ARMv7]"
+
 msgid "add.download.linux32"
 msgstr "Download Ubuntu 14.04 LTS [32-bit]"
 
@@ -12,9 +15,6 @@ msgstr "Download Windows 10 [32-bit]"
 
 msgid "add.download.win64"
 msgstr "Download Windows 10 [64-bit]"
-
-msgid "add.download.armv7l"
-msgstr "[BETA] Download Raspbian 8.0 [ARMv7]"
 
 msgid "add.error"
 msgstr "Failed to create display!"
@@ -253,6 +253,9 @@ msgstr "You have unsaved changes. Do you want to Save or Discard them?"
 msgid "displayDetails"
 msgstr "Display Details"
 
+msgid "download.armv7l"
+msgstr "[BETA] Download Player for Raspbian 8.0 [ARMv7]"
+
 msgid "download.linux32"
 msgstr "Download Player for Ubuntu 14.04 LTS [32-bit]"
 
@@ -267,9 +270,6 @@ msgstr "Download Player for Windows 10 [32-bit]"
 
 msgid "download.win64"
 msgstr "Download Player for Windows 10 [64-bit]"
-
-msgid "download.armv7l"
-msgstr "[BETA] Download Player for Raspbian 8.0 [ARMv7]"
 
 msgid "fields.address.city"
 msgstr "City"
@@ -567,3 +567,4 @@ msgstr "View All Displays"
 
 msgid "title"
 msgstr "Displays"
+

@@ -20,9 +20,13 @@
   },
   "failed-delete": "Delete failed. Please try again.",
   "failed-duplicate": "Duplicate failed. Please try again.",
-  "failed-restore": "Restore failed. Please try again.",
-  "failed-trash": "Move to trash failed. Please try again.",
+  "failed-move": "Move failed.  Please try again.",
+  "failed-restore": "Restore failed.  Please try again.",
+  "failed-trash": "Move to trash failed.  Please try again.",
   "folder-inactive-subscription": "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again.",
+  "folder-selector": {
+    "title": "Select Destination"
+  },
   "folder-verify-company": "You cannot create a folder because your account {{username}} doesn't have access to this company.  Please login with a different account and try again.",
   "header": "Storage",
   "list": {
@@ -31,18 +35,26 @@
   },
   "loading-files": "Loading...",
   "loading-functions": "Loading...",
+  "move": {
+    "breaking-link-hide-warning": "Do not show this warning again.",
+    "breaking-link1": "Modifying these files or folders will break all links with existing Presentations.",
+    "breaking-link2": "If you are using these asset in any Presentation, the link for each must be manually updated in the Editor.",
+    "warning": "Warning!"
+  },
+  "must-be-different": "You cannot move these files or folders into the same folder. Please select a different folder and try again.",
   "new-folder": "Create Folder",
   "not-authorized": "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again.",
   "open-in-storage-app": "Open in Storage App",
   "pending-delete": "Deleting...",
   "pending-duplicate": "Duplicating...",
+  "pending-move": "Moving...",
   "pending-ops-leave-page": "There are tasks in progress.  If you close this window they won't be completed.",
   "pending-restore": "Restoring...",
   "pending-trash": "Moving to trash...",
   "rename": {
     "breaking-link-hide-warning": "Do not show this warning again.",
     "breaking-link1": "Modifying these files or folders will break all links with existing Presentations.",
-    "breaking-link2": "If you are using this asset in any Presentation, the link for each must be manually updated in Editor.",
+    "breaking-link2": "If you are using this asset in any Presentation, the link for each must be manually updated in the Editor.",
     "error": {
       "both-files-or-folders": "Source and destination must be both files or folders.",
       "both-root-or-trash": "Source and destination must be both in Root or in Trash.",
