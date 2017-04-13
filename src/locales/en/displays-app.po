@@ -14,7 +14,7 @@ msgid "add.download.win64"
 msgstr "Download Windows 10 [64-bit]"
 
 msgid "add.download.armv7l"
-msgstr "Download Raspbian 8.0 [ARMv7]"
+msgstr "Download Beta Raspbian 8.0 [ARMv7]"
 
 msgid "add.error"
 msgstr "Failed to create display!"
@@ -269,7 +269,7 @@ msgid "download.win64"
 msgstr "Download Player for Windows 10 [64-bit]"
 
 msgid "download.armv7l"
-msgstr "Download Player for Raspbian 8.0 [ARMv7]"
+msgstr "Download Beta Player for Raspbian 8.0 [ARMv7]"
 
 msgid "fields.address.city"
 msgstr "City"
