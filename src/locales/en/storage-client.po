@@ -1,11 +1,5 @@
-msgid "access-denied"
-msgstr "You don't have access to that action. Please contact your Administrator to give you the access you need."
-
 msgid "add-by-url"
 msgstr "By URL"
-
-msgid "blocked-file"
-msgstr "This file is being requested too many times and is blocked."
 
 msgid "breaking-link-warning.text1"
 msgstr "Modifying these files or folders will break all links with existing Presentations."
@@ -31,14 +25,8 @@ msgstr "{{count}} folders are about to be permanently deleted."
 msgid "delete-folders-singular"
 msgstr "One folder is about to be permanently deleted."
 
-msgid "delete-verify-company"
-msgstr "You cannot delete a file because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
-
 msgid "download-status"
 msgstr "Download Status"
-
-msgid "duplicate-folder"
-msgstr "A Folder already uses that name, please choose a different one"
 
 msgid "empty-state.no-uploads"
 msgstr "You haven't uploaded any files yet!"
@@ -55,14 +43,68 @@ msgstr "Or just select single Images and Videos to add and order them in your Pl
 msgid "empty-state.select-folder"
 msgstr "Select a Folder to show and update Images and Videos as you add or remove them from the Folder."
 
-msgid "folder-inactive-subscription"
+msgid "error.access-denied"
+msgstr "You don't have access to that action. Please contact your Administrator to give you the access you need."
+
+msgid "error.blocked-file"
+msgstr "This file is being requested too many times and is blocked."
+
+msgid "error.delete-verify-company"
+msgstr "You cannot delete a file because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
+msgid "error.duplicate-folder"
+msgstr "A Folder already uses that name, please choose a different one"
+
+msgid "error.folder-inactive-subscription"
 msgstr "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again."
+
+msgid "error.folder-verify-company"
+msgstr "You cannot create a folder because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
+msgid "error.must-be-different"
+msgstr "You cannot move these files or folders into the same folder. Please select a different folder and try again."
+
+msgid "error.not-authorized"
+msgstr "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
+msgid "error.restore-inactive-subscription"
+msgstr "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again."
+
+msgid "error.restore-verify-company"
+msgstr "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
+msgid "error.server-error"
+msgstr "An error has occured."
+
+msgid "error.signed-download-uri-request-failed"
+msgstr "Download failed. Please try again."
+
+msgid "error.signed-url-verify-company"
+msgstr "The download failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
+
+msgid "error.trash-inactive-subscription"
+msgstr "You cannot move the file to trash because you don't have an active subscription.  Please purchase a subscription and try again."
+
+msgid "error.trash-verify-company"
+msgstr "You cannot move the file to trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
+msgid "error.upload-failed"
+msgstr "Upload failed.  Please try again."
+
+msgid "error.upload-inactive-subscription"
+msgstr "You cannot upload files because you don't have an active subscription.  Please purchase a subscription and try again."
+
+msgid "error.upload-uri-request-failed"
+msgstr "Upload failed.  Please try again."
+
+msgid "error.upload-uri-request-failed-mail"
+msgstr "Upload failed for {{username}}.  Please try again."
+
+msgid "error.upload-verify-company"
+msgstr "The upload failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
 
 msgid "folder-selector.title"
 msgstr "Select Destination"
-
-msgid "folder-verify-company"
-msgstr "You cannot create a folder because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
 msgid "header"
 msgstr "Storage"
@@ -79,14 +121,8 @@ msgstr "Loading..."
 msgid "loading-functions"
 msgstr "Loading..."
 
-msgid "must-be-different"
-msgstr "You cannot move these files or folders into the same folder. Please select a different folder and try again."
-
 msgid "new-folder"
 msgstr "Create Folder"
-
-msgid "not-authorized"
-msgstr "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
 msgid "open-in-storage-app"
 msgstr "Open in Storage App"
@@ -157,12 +193,6 @@ msgstr "An error occured while renaming. Please try again."
 msgid "rename.title"
 msgstr "Rename File or Folder"
 
-msgid "restore-inactive-subscription"
-msgstr "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again."
-
-msgid "restore-verify-company"
-msgstr "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
-
 msgid "retry-failed-uploads"
 msgstr "Retry failed uploads"
 
@@ -205,12 +235,6 @@ msgstr "Select a Folder of Videos"
 msgid "selected-items"
 msgstr "{{count}} Selected"
 
-msgid "signed-download-uri-request-failed"
-msgstr "Download failed.  Please try again."
-
-msgid "signed-url-verify-company"
-msgstr "The download failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
-
 msgid "start-trial.cta"
 msgstr "Start Your Free Trial"
 
@@ -229,17 +253,8 @@ msgstr "Rise Vision Storage"
 msgid "trash"
 msgstr "Trash"
 
-msgid "trash-inactive-subscription"
-msgstr "You cannot move the file to trash because you don't have an active subscription.  Please purchase a subscription and try again."
-
-msgid "trash-verify-company"
-msgstr "You cannot move the file to trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
-
 msgid "upload"
 msgstr "Upload"
-
-msgid "upload-failed"
-msgstr "Upload failed.  Please try again."
 
 msgid "upload-files"
 msgstr "Upload Files"
@@ -247,20 +262,8 @@ msgstr "Upload Files"
 msgid "upload-folder"
 msgstr "Upload Folder"
 
-msgid "upload-inactive-subscription"
-msgstr "You cannot upload files because you don't have an active subscription.  Please purchase a subscription and try again."
-
 msgid "upload-status"
 msgstr "Upload Status"
-
-msgid "upload-uri-request-failed"
-msgstr "Upload failed.  Please try again."
-
-msgid "upload-uri-request-failed-mail"
-msgstr "Upload failed for {{username}}.  Please try again."
-
-msgid "upload-verify-company"
-msgstr "The upload failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
 
 msgid "uploading"
 msgstr "Uploading {{filename}}"
