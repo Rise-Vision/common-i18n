@@ -61,8 +61,35 @@ msgstr "You cannot add a folder because you don't have an active subscription.  
 msgid "error.folder-verify-company"
 msgstr "You cannot create a folder because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
-msgid "error.must-be-different"
+msgid "error.move.both-files-or-folders"
+msgstr "Destination must be a folder."
+
+msgid "error.move.both-root-or-trash"
+msgstr "Source and destination must be both in Root or in Trash."
+
+msgid "error.move.destination-must-not-exist"
+msgstr "Destination folder already contains a file with that name."
+
+msgid "error.move.invalid-name"
+msgstr "The new name cannot have slashes."
+
+msgid "error.move.must-be-different"
 msgstr "You cannot move these files or folders into the same folder. Please select a different folder and try again."
+
+msgid "error.move.no-matches-found"
+msgstr "No matching files found."
+
+msgid "error.move.parent-must-exist"
+msgstr "Destination parent directory must exist."
+
+msgid "error.move.root-not-valid"
+msgstr "Source and destination cannot point to the root folder."
+
+msgid "error.move.subfolders-not-valid"
+msgstr "Source and destination cannot be subfolders of each other."
+
+msgid "error.move.unknown"
+msgstr "An error occured while moving. Please try again."
 
 msgid "error.not-authorized"
 msgstr "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
