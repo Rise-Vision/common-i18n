@@ -7,6 +7,12 @@ msgstr "By URL"
 msgid "blocked-file"
 msgstr "This file is being requested too many times and is blocked."
 
+msgid "breaking-link-warning.text1"
+msgstr "Modifying these files or folders will break all links with existing Presentations."
+
+msgid "breaking-link-warning.text2"
+msgstr "If you are using this asset in any Presentation, the link for each must be manually updated in the Editor."
+
 msgid "cancel-uploads"
 msgstr "Cancel All"
 
@@ -49,21 +55,6 @@ msgstr "Or just select single Images and Videos to add and order them in your Pl
 msgid "empty-state.select-folder"
 msgstr "Select a Folder to show and update Images and Videos as you add or remove them from the Folder."
 
-msgid "failed-delete"
-msgstr "Delete failed. Please try again."
-
-msgid "failed-duplicate"
-msgstr "Duplicate failed. Please try again."
-
-msgid "failed-move"
-msgstr "Move failed.  Please try again."
-
-msgid "failed-restore"
-msgstr "Restore failed.  Please try again."
-
-msgid "failed-trash"
-msgstr "Move to trash failed.  Please try again."
-
 msgid "folder-inactive-subscription"
 msgstr "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again."
 
@@ -88,18 +79,6 @@ msgstr "Loading..."
 msgid "loading-functions"
 msgstr "Loading..."
 
-msgid "move.breaking-link-hide-warning"
-msgstr "Do not show this warning again."
-
-msgid "move.breaking-link1"
-msgstr "Modifying these files or folders will break all links with existing Presentations."
-
-msgid "move.breaking-link2"
-msgstr "If you are using these asset in any Presentation, the link for each must be manually updated in the Editor."
-
-msgid "move.warning"
-msgstr "Warning!"
-
 msgid "must-be-different"
 msgstr "You cannot move these files or folders into the same folder. Please select a different folder and try again."
 
@@ -112,32 +91,38 @@ msgstr "Your account {{username}} doesn't have access to this company.  Please l
 msgid "open-in-storage-app"
 msgstr "Open in Storage App"
 
-msgid "pending-delete"
+msgid "pending-operation.delete"
 msgstr "Deleting..."
 
-msgid "pending-duplicate"
+msgid "pending-operation.duplicate"
 msgstr "Duplicating..."
 
-msgid "pending-move"
-msgstr "Moving..."
+msgid "pending-operation.failed.delete"
+msgstr "Delete failed.  Please try again."
 
-msgid "pending-ops-leave-page"
+msgid "pending-operation.failed.duplicate"
+msgstr "Duplicate failed. Please try again."
+
+msgid "pending-operation.failed.move"
+msgstr "Move failed.  Please try again."
+
+msgid "pending-operation.failed.restore"
+msgstr "Restore failed.  Please try again."
+
+msgid "pending-operation.failed.trash"
+msgstr "Move to trash failed.  Please try again."
+
+msgid "pending-operation.leave-page"
 msgstr "There are tasks in progress.  If you close this window they won't be completed."
 
-msgid "pending-restore"
+msgid "pending-operation.move"
+msgstr "Moving..."
+
+msgid "pending-operation.restore"
 msgstr "Restoring..."
 
-msgid "pending-trash"
+msgid "pending-operation.trash"
 msgstr "Moving to trash..."
-
-msgid "rename.breaking-link-hide-warning"
-msgstr "Do not show this warning again."
-
-msgid "rename.breaking-link1"
-msgstr "Modifying these files or folders will break all links with existing Presentations."
-
-msgid "rename.breaking-link2"
-msgstr "If you are using this asset in any Presentation, the link for each must be manually updated in the Editor."
 
 msgid "rename.error.both-files-or-folders"
 msgstr "Source and destination must be both files or folders."
@@ -171,9 +156,6 @@ msgstr "An error occured while renaming. Please try again."
 
 msgid "rename.title"
 msgstr "Rename File or Folder"
-
-msgid "rename.warning"
-msgstr "Warning!"
 
 msgid "restore-inactive-subscription"
 msgstr "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again."

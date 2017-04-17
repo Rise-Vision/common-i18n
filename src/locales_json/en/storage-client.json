@@ -2,6 +2,10 @@
   "access-denied": "You don't have access to that action. Please contact your Administrator to give you the access you need.",
   "add-by-url": "By URL",
   "blocked-file": "This file is being requested too many times and is blocked.",
+  "breaking-link-warning": {
+    "text1": "Modifying these files or folders will break all links with existing Presentations.",
+    "text2": "If you are using this asset in any Presentation, the link for each must be manually updated in the Editor."
+  },
   "cancel-uploads": "Cancel All",
   "delete-files-folders-plural": "{{count}} files and folders are about to be permanently deleted.",
   "delete-files-plural": "{{count}} files are about to be permanently deleted.",
@@ -18,11 +22,6 @@
     "select-file": "Or just select single Images and Videos to add and order them in your Playlist",
     "select-folder": "Select a Folder to show and update Images and Videos as you add or remove them from the Folder."
   },
-  "failed-delete": "Delete failed. Please try again.",
-  "failed-duplicate": "Duplicate failed. Please try again.",
-  "failed-move": "Move failed.  Please try again.",
-  "failed-restore": "Restore failed.  Please try again.",
-  "failed-trash": "Move to trash failed.  Please try again.",
   "folder-inactive-subscription": "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again.",
   "folder-selector": {
     "title": "Select Destination"
@@ -35,26 +34,26 @@
   },
   "loading-files": "Loading...",
   "loading-functions": "Loading...",
-  "move": {
-    "breaking-link-hide-warning": "Do not show this warning again.",
-    "breaking-link1": "Modifying these files or folders will break all links with existing Presentations.",
-    "breaking-link2": "If you are using these asset in any Presentation, the link for each must be manually updated in the Editor.",
-    "warning": "Warning!"
-  },
   "must-be-different": "You cannot move these files or folders into the same folder. Please select a different folder and try again.",
   "new-folder": "Create Folder",
   "not-authorized": "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again.",
   "open-in-storage-app": "Open in Storage App",
-  "pending-delete": "Deleting...",
-  "pending-duplicate": "Duplicating...",
-  "pending-move": "Moving...",
-  "pending-ops-leave-page": "There are tasks in progress.  If you close this window they won't be completed.",
-  "pending-restore": "Restoring...",
-  "pending-trash": "Moving to trash...",
+  "pending-operation": {
+    "delete": "Deleting...",
+    "duplicate": "Duplicating...",
+    "failed": {
+      "delete": "Delete failed.  Please try again.",
+      "duplicate": "Duplicate failed. Please try again.",
+      "move": "Move failed.  Please try again.",
+      "restore": "Restore failed.  Please try again.",
+      "trash": "Move to trash failed.  Please try again."
+    },
+    "leave-page": "There are tasks in progress.  If you close this window they won't be completed.",
+    "move": "Moving...",
+    "restore": "Restoring...",
+    "trash": "Moving to trash..."
+  },
   "rename": {
-    "breaking-link-hide-warning": "Do not show this warning again.",
-    "breaking-link1": "Modifying these files or folders will break all links with existing Presentations.",
-    "breaking-link2": "If you are using this asset in any Presentation, the link for each must be manually updated in the Editor.",
     "error": {
       "both-files-or-folders": "Source and destination must be both files or folders.",
       "both-root-or-trash": "Source and destination must be both in Root or in Trash.",
@@ -67,8 +66,7 @@
       "subfolders-not-valid": "Source and destination cannot be subfolders of each other.",
       "unknown": "An error occured while renaming. Please try again."
     },
-    "title": "Rename File or Folder",
-    "warning": "Warning!"
+    "title": "Rename File or Folder"
   },
   "restore-inactive-subscription": "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again.",
   "restore-verify-company": "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again.",
