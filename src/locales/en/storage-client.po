@@ -50,16 +50,16 @@ msgid "error.blocked-file"
 msgstr "This file is being requested too many times and is blocked."
 
 msgid "error.delete-verify-company"
-msgstr "You cannot delete a file because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+msgstr "You cannot delete a file because your account {{username}} doesn't have access to this company. Please login with a different account and try again."
 
 msgid "error.duplicate-folder"
 msgstr "A Folder already uses that name, please choose a different one"
 
 msgid "error.folder-inactive-subscription"
-msgstr "You cannot add a folder because you don't have an active subscription.  Please purchase a subscription and try again."
+msgstr "You cannot add a folder because you don't have an active subscription. Please purchase a subscription and try again."
 
 msgid "error.folder-verify-company"
-msgstr "You cannot create a folder because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+msgstr "You cannot create a folder because your account {{username}} doesn't have access to this company. Please login with a different account and try again."
 
 msgid "error.move.both-files-or-folders"
 msgstr "Destination must be a folder."
@@ -92,13 +92,13 @@ msgid "error.move.unknown"
 msgstr "An error occured while moving. Please try again."
 
 msgid "error.not-authorized"
-msgstr "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+msgstr "Your account {{username}} doesn't have access to this company. Please login with a different account and try again."
 
 msgid "error.restore-inactive-subscription"
-msgstr "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again."
+msgstr "You cannot restore the file from trash because you don't have an active subscription. Please purchase a subscription and try again."
 
 msgid "error.restore-verify-company"
-msgstr "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+msgstr "You cannot restore the file from trash because your account {{username}} doesn't have access to this company. Please login with a different account and try again."
 
 msgid "error.server-error"
 msgstr "An error has occured."
@@ -107,28 +107,28 @@ msgid "error.signed-download-uri-request-failed"
 msgstr "Download failed. Please try again."
 
 msgid "error.signed-url-verify-company"
-msgstr "The download failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
+msgstr "The download failed because your account {{username}} does not have access to this company. Please log in with a different account and try again."
 
 msgid "error.trash-inactive-subscription"
-msgstr "You cannot move the file to trash because you don't have an active subscription.  Please purchase a subscription and try again."
+msgstr "You cannot move the file to trash because you don't have an active subscription. Please purchase a subscription and try again."
 
 msgid "error.trash-verify-company"
-msgstr "You cannot move the file to trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+msgstr "You cannot move the file to trash because your account {{username}} doesn't have access to this company. Please login with a different account and try again."
 
 msgid "error.upload-failed"
-msgstr "Upload failed.  Please try again."
+msgstr "Upload failed. Please try again."
 
 msgid "error.upload-inactive-subscription"
-msgstr "You cannot upload files because you don't have an active subscription.  Please purchase a subscription and try again."
+msgstr "You cannot upload files because you don't have an active subscription. Please purchase a subscription and try again."
 
 msgid "error.upload-uri-request-failed"
-msgstr "Upload failed.  Please try again."
+msgstr "Upload failed. Please try again."
 
 msgid "error.upload-uri-request-failed-mail"
-msgstr "Upload failed for {{username}}.  Please try again."
+msgstr "Upload failed for {{username}}. Please try again."
 
 msgid "error.upload-verify-company"
-msgstr "The upload failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
+msgstr "The upload failed because your account {{username}} does not have access to this company. Please log in with a different account and try again."
 
 msgid "folder-selector.title"
 msgstr "Select Destination"
@@ -161,22 +161,22 @@ msgid "pending-operation.duplicate"
 msgstr "Duplicating..."
 
 msgid "pending-operation.failed.delete"
-msgstr "Delete failed.  Please try again."
+msgstr "Delete failed. Please try again."
 
 msgid "pending-operation.failed.duplicate"
 msgstr "Duplicate failed. Please try again."
 
 msgid "pending-operation.failed.move"
-msgstr "Move failed.  Please try again."
+msgstr "Move failed. Please try again."
 
 msgid "pending-operation.failed.restore"
-msgstr "Restore failed.  Please try again."
+msgstr "Restore failed. Please try again."
 
 msgid "pending-operation.failed.trash"
-msgstr "Move to trash failed.  Please try again."
+msgstr "Move to trash failed. Please try again."
 
 msgid "pending-operation.leave-page"
-msgstr "There are tasks in progress.  If you close this window they won't be completed."
+msgstr "There are tasks in progress. If you close this window they won't be completed."
 
 msgid "pending-operation.move"
 msgstr "Moving..."
