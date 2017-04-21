@@ -80,7 +80,19 @@
     "no-playlistItem": "Click Image, Video, Text or More to add to this Playlist",
     "playUntilDone": "Play Until Done",
     "playUntilDone-short": "PUD",
-    "presentation": "Presentation",
+    "presentation": {
+      "enterId": "Enter Presentation ID",
+      "error": {
+        "invalidId": "Presentation ID is not valid. Please enter a valid ID.",
+        "noAccess": "There was an error accessing the Presentation. This could indicate it does not exist or you cannot access it.",
+        "noId": "Please enter a Presentation ID",
+        "noneSelected": "No Presentation selected. Please select a Presentation or enter an ID."
+      },
+      "name": "Embedded Presentation",
+      "open": "Open Presentation",
+      "select": "Select Presentation",
+      "title": "Embedded Presentation Settings"
+    },
     "required": "Required",
     "seconds": "seconds",
     "seconds-short": "s",
