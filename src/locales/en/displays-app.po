@@ -428,7 +428,7 @@ msgid "fields.player.playerVersion"
 msgstr "Player Version"
 
 msgid "fields.player.playerWarning"
-msgstr "A Player has not been configured for your Display. To configure your Display, select your Operating System below and install the software <b>on the device</b> that will operate your Display. When the Player starts for the first time you will be prompted to enter the Display ID (above) to link the Player with the Display that you have setup here. Further setup details can be <a href="http://help.risevision.com/user/create-a-display/" target="_blank">found here</a>."
+msgstr "A Player has not been configured for your Display. To configure your Display, select your Operating System below and install the software <b>on the device</b> that will operate your Display. When the Player starts for the first time you will be prompted to enter the Display ID (above) to link the Player with the Display that you have setup here. Further setup details can be <a href="https://help.risevision.com/hc/en-us/articles/115000860926-Displays" target="_blank">found here</a>."
 
 msgid "fields.player.resolution"
 msgstr "Resolution"

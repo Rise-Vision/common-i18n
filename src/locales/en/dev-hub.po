@@ -7,9 +7,6 @@ msgstr "API Explorer"
 msgid "APP"
 msgstr "App"
 
-msgid "APPLY_BUTTON"
-msgstr "Apply"
-
 msgid "APPS"
 msgstr "Apps"
 
@@ -60,12 +57,6 @@ msgstr "How to register an Application"
 
 msgid "APP_URL"
 msgstr "URL"
-
-msgid "CANCEL_BUTTON"
-msgstr "Cancel"
-
-msgid "DELETE_BUTTON"
-msgstr "Delete"
 
 msgid "DELETE_CONFIRMATION"
 msgstr "Are you sure you want to delete this app?"
@@ -144,9 +135,6 @@ msgstr "Rise Vision Developer Hub"
 
 msgid "RV_DEVELOPER_HUB_SUB_TITLE"
 msgstr "Everything You Need to Create Apps and Publish Them on the Rise Vision Store"
-
-msgid "SAVE_BUTTON"
-msgstr "Save"
 
 msgid "STYLE_GUIDE"
 msgstr "Style Guide"
