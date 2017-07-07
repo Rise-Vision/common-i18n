@@ -130,6 +130,9 @@
       "required": "Required"
     }
   },
+  "selector-modal": {
+    "title": "Select Presentation"
+  },
   "sharedTemplates": {
     "name": "Name",
     "preview": "Preview",

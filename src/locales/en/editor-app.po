@@ -283,6 +283,9 @@ msgstr "Invalid URL"
 msgid "properties.warnings.required"
 msgstr "Required"
 
+msgid "selector-modal.title"
+msgstr "Select Presentation"
+
 msgid "sharedTemplates.name"
 msgstr "Name"
 
