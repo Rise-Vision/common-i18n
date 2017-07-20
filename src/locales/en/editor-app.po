@@ -373,18 +373,6 @@ msgstr "Premium"
 msgid "subscription.viewAccount"
 msgstr "View Account"
 
-msgid "templatesLibrary.details.preview"
-msgstr "Preview this Template"
-
-msgid "templatesLibrary.details.free"
-msgstr "FREE"
-
-msgid "templatesLibrary.details.freeWithTrial"
-msgstr "with 30-Day Template Library Trial"
-
-msgid "templatesLibrary.details.details-list-title"
-msgstr "Subscription Details"
-
 msgid "templatesLibrary.details.details-list-1"
 msgstr "Get access to all Premium Templates with a 30 day trial, and $15 per month thereafter."
 
@@ -396,6 +384,18 @@ msgstr "All the Templates are yours to keep, even if you cancel!"
 
 msgid "templatesLibrary.details.details-list-4"
 msgstr "New Templates added every month."
+
+msgid "templatesLibrary.details.details-list-title"
+msgstr "Subscription Details"
+
+msgid "templatesLibrary.details.free"
+msgstr "FREE"
+
+msgid "templatesLibrary.details.freeWithTrial"
+msgstr "with 30-Day Template Library Trial"
+
+msgid "templatesLibrary.details.preview"
+msgstr "Preview this Template"
 
 msgid "templatesLibrary.details.purchase"
 msgstr "Purchase in Store"
