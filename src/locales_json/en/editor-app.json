@@ -177,6 +177,17 @@
     "viewAccount": "View Account"
   },
   "templatesLibrary": {
+    "details": {
+      "details-list-1": "Get access to all Premium Templates with a 30 day trial, and $15 per month thereafter.",
+      "details-list-2": "There's no contract, and you can cancel at any time.",
+      "details-list-3": "All the Templates are yours to keep, even if you cancel!",
+      "details-list-4": "New Templates added every month.",
+      "details-list-title": "Subscription Details",
+      "free": "FREE",
+      "freeWithTrial": "with 30-Day Template Library Trial",
+      "preview": "Preview this Template",
+      "purchase": "Purchase in Store"
+    },
     "subscription": {
       "cancelled": "Subscription Cancelled",
       "expanded-cancelled": "Your Template Library subscription was cancelled",
