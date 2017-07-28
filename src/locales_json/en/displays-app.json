@@ -267,6 +267,7 @@
     "noDisplays": "No Displays",
     "player": {
       "cta": {
+        "checkStore": "Check Store Account",
         "getSupport": "Get Support",
         "subscribeNow": "Subscribe Now",
         "subscribePro": "Subscribe To Professional",
@@ -277,6 +278,7 @@
         "3rdParty": "3rd Party Player",
         "cancelled": "Professional (Cancelled)",
         "professional": "Professional",
+        "professionalSuspended": "Professional (Suspended)",
         "professionalTrial": "Professional Trial",
         "standard": "Standard",
         "unsupported": "Unsupported"

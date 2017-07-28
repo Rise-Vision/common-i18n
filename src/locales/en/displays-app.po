@@ -571,6 +571,9 @@ msgstr "Your search didn't return any results"
 msgid "list.noDisplays"
 msgstr "No Displays"
 
+msgid "list.player.cta.checkStore"
+msgstr "Check Store Account"
+
 msgid "list.player.cta.getSupport"
 msgstr "Get Support"
 
@@ -594,6 +597,9 @@ msgstr "Professional (Cancelled)"
 
 msgid "list.player.type.professional"
 msgstr "Professional"
+
+msgid "list.player.type.professionalSuspended"
+msgstr "Professional (Suspended)"
 
 msgid "list.player.type.professionalTrial"
 msgstr "Professional Trial"
