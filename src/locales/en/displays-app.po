@@ -556,6 +556,9 @@ msgstr "Last Connection"
 msgid "list.heading.name"
 msgstr "Name"
 
+msgid "list.heading.playerType"
+msgstr "Player Type"
+
 msgid "list.heading.schedule"
 msgstr "Schedule"
 
@@ -567,6 +570,39 @@ msgstr "Your search didn't return any results"
 
 msgid "list.noDisplays"
 msgstr "No Displays"
+
+msgid "list.player.cta.getSupport"
+msgstr "Get Support"
+
+msgid "list.player.cta.subscribeNow"
+msgstr "Subscribe Now"
+
+msgid "list.player.cta.subscribePro"
+msgstr "Subscribe To Professional"
+
+msgid "list.player.cta.tryPro"
+msgstr "Try Professional"
+
+msgid "list.player.cta.upgrade"
+msgstr "Upgrade"
+
+msgid "list.player.type.3rdParty"
+msgstr "3rd Party Player"
+
+msgid "list.player.type.cancelled"
+msgstr "Professional (Cancelled)"
+
+msgid "list.player.type.professional"
+msgstr "Professional"
+
+msgid "list.player.type.professionalTrial"
+msgstr "Professional Trial"
+
+msgid "list.player.type.standard"
+msgstr "Standard"
+
+msgid "list.player.type.unsupported"
+msgstr "Unsupported"
 
 msgid "list.schedule.add"
 msgstr "Add to Schedule"
