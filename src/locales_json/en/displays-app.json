@@ -292,7 +292,8 @@
       "error": "Error",
       "install": "Install Player",
       "offline": "Offline",
-      "online": "Online"
+      "online": "Online",
+      "whyOffline": "Why is my Display offline?"
     },
     "viewAll": "View All Displays"
   },

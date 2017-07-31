@@ -628,6 +628,9 @@ msgstr "Offline"
 msgid "list.status.online"
 msgstr "Online"
 
+msgid "list.status.whyOffline"
+msgstr "Why is my Display offline?"
+
 msgid "list.viewAll"
 msgstr "View All Displays"
 
