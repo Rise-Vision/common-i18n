@@ -602,7 +602,7 @@ msgid "list.player.type.professionalSuspended"
 msgstr "Professional (Suspended)"
 
 msgid "list.player.type.professionalTrial"
-msgstr "Professional Trial"
+msgstr "Professional (Trial)"
 
 msgid "list.player.type.standard"
 msgstr "Standard"
