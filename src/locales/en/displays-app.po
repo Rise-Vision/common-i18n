@@ -466,8 +466,8 @@ msgstr "How do I get help?"
 msgid "fields.player.version.thirdParty"
 msgstr "(3rd Party Player)"
 
-msgid "fields.player.version.unsupported"
-msgstr "Unsupported"
+msgid "fields.player.version.notCurrent"
+msgstr "Player Version Not Current"
 
 msgid "fields.player.version.upgrade"
 msgstr "Upgrade"
@@ -606,9 +606,6 @@ msgstr "Professional (Trial)"
 
 msgid "list.player.type.standard"
 msgstr "Standard"
-
-msgid "list.player.type.unsupported"
-msgstr "Unsupported"
 
 msgid "list.schedule.add"
 msgstr "Add to Schedule"
