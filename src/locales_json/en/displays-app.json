@@ -217,6 +217,7 @@
         "howGetHelp": "How do I get help?",
         "notCurrent": "Player Version Not Current",
         "thirdParty": "(3rd Party Player)",
+        "unsupported": "Unsupported",
         "upgrade": "Upgrade"
       },
       "viewerVersion": "Viewer Version"
@@ -280,7 +281,8 @@
         "professional": "Professional",
         "professionalSuspended": "Professional (Suspended)",
         "professionalTrial": "Professional (Trial)",
-        "standard": "Standard"
+        "standard": "Standard",
+        "unsupported": "Unsupported"
       }
     },
     "schedule": {
