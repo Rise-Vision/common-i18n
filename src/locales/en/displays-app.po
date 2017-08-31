@@ -638,7 +638,7 @@ msgid "list.viewAll"
 msgstr "View All Displays"
 
 msgid "playerProTrial.description"
-msgstr "Rise Player Professional is a self-contained application that elimates having to be connected to the internet in order to start and show your content."
+msgstr "Rise Player Professional is a self-contained application that eliminates having to be connected to the internet in order to start and show your content."
 
 msgid "playerProTrial.description2"
 msgstr "30 days FREE trial for all Displays in your Company. No credit card required."
